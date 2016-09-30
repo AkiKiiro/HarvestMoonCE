@@ -1,0 +1,3119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="21">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>159</ID>
+      <Description>"Money"</Description>
+      <LastState Value="644659" RealAddress="098113F0"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>VisualBoyAdvance.CxImageJPG::`vftable'+19ECF0</Address>
+      <Offsets>
+        <Offset>4080</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>26</ID>
+      <Description>"Fridge"</Description>
+      <Options moHideChildren="1" moAllowManualCollapseAndExpand="1"/>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>9</ID>
+          <Description>"Page 1"</Description>
+          <Options moHideChildren="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="1" RealAddress="0980FB47"/>
+          <VariableType>Byte</VariableType>
+          <Address>VisualBoyAdvance.CxImageJPG::`vftable'+19ECF0</Address>
+          <Offsets>
+            <Offset>27D7</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>1</ID>
+              <Description>"1"</Description>
+              <LastState Value="1" RealAddress="0980FB47"/>
+              <VariableType>Byte</VariableType>
+              <Address>+0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>4</ID>
+              <Description>"2"</Description>
+              <LastState Value="1" RealAddress="0980FB4B"/>
+              <VariableType>Byte</VariableType>
+              <Address>+4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>10</ID>
+              <Description>"3"</Description>
+              <LastState Value="1" RealAddress="0980FB4F"/>
+              <VariableType>Byte</VariableType>
+              <Address>+8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>11</ID>
+              <Description>"4"</Description>
+              <LastState Value="1" RealAddress="0980FB53"/>
+              <VariableType>Byte</VariableType>
+              <Address>+C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>12</ID>
+              <Description>"5"</Description>
+              <LastState Value="1" RealAddress="0980FB57"/>
+              <VariableType>Byte</VariableType>
+              <Address>+10</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>13</ID>
+              <Description>"6"</Description>
+              <LastState Value="1" RealAddress="0980FB5B"/>
+              <VariableType>Byte</VariableType>
+              <Address>+14</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>16</ID>
+              <Description>"7"</Description>
+              <LastState Value="1" RealAddress="0980FB5F"/>
+              <VariableType>Byte</VariableType>
+              <Address>+18</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>14</ID>
+              <Description>"8"</Description>
+              <LastState Value="1" RealAddress="0980FB63"/>
+              <VariableType>Byte</VariableType>
+              <Address>+1C</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>17</ID>
+          <Description>"Page 2"</Description>
+          <Options moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="0" RealAddress="0980FB67"/>
+          <VariableType>Byte</VariableType>
+          <Address>VisualBoyAdvance.CxImageJPG::`vftable'+19ECF0</Address>
+          <Offsets>
+            <Offset>27F7</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>18</ID>
+              <Description>"1"</Description>
+              <LastState Value="0" RealAddress="0980FB67"/>
+              <VariableType>Byte</VariableType>
+              <Address>+0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>19</ID>
+              <Description>"2"</Description>
+              <LastState Value="0" RealAddress="0980FB6B"/>
+              <VariableType>Byte</VariableType>
+              <Address>+4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>20</ID>
+              <Description>"3"</Description>
+              <LastState Value="0" RealAddress="0980FB6F"/>
+              <VariableType>Byte</VariableType>
+              <Address>+8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>21</ID>
+              <Description>"4"</Description>
+              <LastState Value="0" RealAddress="0980FB73"/>
+              <VariableType>Byte</VariableType>
+              <Address>+C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>22</ID>
+              <Description>"5"</Description>
+              <LastState Value="1" RealAddress="0980FB77"/>
+              <VariableType>Byte</VariableType>
+              <Address>+10</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>23</ID>
+              <Description>"6"</Description>
+              <LastState Value="1" RealAddress="0980FB7B"/>
+              <VariableType>Byte</VariableType>
+              <Address>+14</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>24</ID>
+              <Description>"7"</Description>
+              <LastState Value="1" RealAddress="0980FB7F"/>
+              <VariableType>Byte</VariableType>
+              <Address>+18</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>25</ID>
+              <Description>"8"</Description>
+              <LastState Value="1" RealAddress="0980FB83"/>
+              <VariableType>Byte</VariableType>
+              <Address>+1C</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>27</ID>
+          <Description>"Page 3"</Description>
+          <Options moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="1" RealAddress="0980FB87"/>
+          <VariableType>Byte</VariableType>
+          <Address>VisualBoyAdvance.CxImageJPG::`vftable'+19ECF0</Address>
+          <Offsets>
+            <Offset>2817</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>28</ID>
+              <Description>"1"</Description>
+              <LastState Value="1" RealAddress="0980FB87"/>
+              <VariableType>Byte</VariableType>
+              <Address>+0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>29</ID>
+              <Description>"2"</Description>
+              <LastState Value="1" RealAddress="0980FB8B"/>
+              <VariableType>Byte</VariableType>
+              <Address>+4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>30</ID>
+              <Description>"3"</Description>
+              <LastState Value="1" RealAddress="0980FB8F"/>
+              <VariableType>Byte</VariableType>
+              <Address>+8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>31</ID>
+              <Description>"4"</Description>
+              <LastState Value="1" RealAddress="0980FB93"/>
+              <VariableType>Byte</VariableType>
+              <Address>+C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>32</ID>
+              <Description>"5"</Description>
+              <LastState Value="1" RealAddress="0980FB97"/>
+              <VariableType>Byte</VariableType>
+              <Address>+10</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>33</ID>
+              <Description>"6"</Description>
+              <LastState Value="1" RealAddress="0980FB9B"/>
+              <VariableType>Byte</VariableType>
+              <Address>+14</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>34</ID>
+              <Description>"7"</Description>
+              <LastState Value="1" RealAddress="0980FB9F"/>
+              <VariableType>Byte</VariableType>
+              <Address>+18</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>35</ID>
+              <Description>"8"</Description>
+              <LastState Value="1" RealAddress="0980FBA3"/>
+              <VariableType>Byte</VariableType>
+              <Address>+1C</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>36</ID>
+          <Description>"Page 4"</Description>
+          <Options moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="0" RealAddress="0980FBA7"/>
+          <VariableType>Byte</VariableType>
+          <Address>VisualBoyAdvance.CxImageJPG::`vftable'+19ECF0</Address>
+          <Offsets>
+            <Offset>2837</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>37</ID>
+              <Description>"1"</Description>
+              <LastState Value="0" RealAddress="0980FBA7"/>
+              <VariableType>Byte</VariableType>
+              <Address>+0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>38</ID>
+              <Description>"2"</Description>
+              <LastState Value="0" RealAddress="0980FBAB"/>
+              <VariableType>Byte</VariableType>
+              <Address>+4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>39</ID>
+              <Description>"3"</Description>
+              <LastState Value="0" RealAddress="0980FBAF"/>
+              <VariableType>Byte</VariableType>
+              <Address>+8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>40</ID>
+              <Description>"4"</Description>
+              <LastState Value="0" RealAddress="0980FBB3"/>
+              <VariableType>Byte</VariableType>
+              <Address>+C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>41</ID>
+              <Description>"5"</Description>
+              <LastState Value="0" RealAddress="0980FBB7"/>
+              <VariableType>Byte</VariableType>
+              <Address>+10</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>42</ID>
+              <Description>"6"</Description>
+              <LastState Value="0" RealAddress="0980FBBB"/>
+              <VariableType>Byte</VariableType>
+              <Address>+14</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>43</ID>
+              <Description>"7"</Description>
+              <LastState Value="0" RealAddress="0980FBBF"/>
+              <VariableType>Byte</VariableType>
+              <Address>+18</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>44</ID>
+              <Description>"8"</Description>
+              <LastState Value="0" RealAddress="0980FBC3"/>
+              <VariableType>Byte</VariableType>
+              <Address>+1C</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>45</ID>
+          <Description>"Page 5"</Description>
+          <Options moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="0" RealAddress="0980FBC7"/>
+          <VariableType>Byte</VariableType>
+          <Address>VisualBoyAdvance.CxImageJPG::`vftable'+19ECF0</Address>
+          <Offsets>
+            <Offset>2857</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>46</ID>
+              <Description>"1"</Description>
+              <LastState Value="0" RealAddress="0980FBC7"/>
+              <VariableType>Byte</VariableType>
+              <Address>+0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>47</ID>
+              <Description>"2"</Description>
+              <LastState Value="0" RealAddress="0980FBCB"/>
+              <VariableType>Byte</VariableType>
+              <Address>+4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>48</ID>
+              <Description>"3"</Description>
+              <LastState Value="0" RealAddress="0980FBCF"/>
+              <VariableType>Byte</VariableType>
+              <Address>+8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>49</ID>
+              <Description>"4"</Description>
+              <LastState Value="0" RealAddress="0980FBD3"/>
+              <VariableType>Byte</VariableType>
+              <Address>+C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>50</ID>
+              <Description>"5"</Description>
+              <LastState Value="0" RealAddress="0980FBD7"/>
+              <VariableType>Byte</VariableType>
+              <Address>+10</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>51</ID>
+              <Description>"6"</Description>
+              <LastState Value="0" RealAddress="0980FBDB"/>
+              <VariableType>Byte</VariableType>
+              <Address>+14</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>52</ID>
+              <Description>"7"</Description>
+              <LastState Value="0" RealAddress="0980FBDF"/>
+              <VariableType>Byte</VariableType>
+              <Address>+18</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>53</ID>
+              <Description>"8"</Description>
+              <LastState Value="0" RealAddress="0980FBE3"/>
+              <VariableType>Byte</VariableType>
+              <Address>+1C</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>54</ID>
+          <Description>"Page 6"</Description>
+          <Options moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="0" RealAddress="0980FBE7"/>
+          <VariableType>Byte</VariableType>
+          <Address>VisualBoyAdvance.CxImageJPG::`vftable'+19ECF0</Address>
+          <Offsets>
+            <Offset>2877</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>55</ID>
+              <Description>"1"</Description>
+              <LastState Value="0" RealAddress="0980FBE7"/>
+              <VariableType>Byte</VariableType>
+              <Address>+0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>56</ID>
+              <Description>"2"</Description>
+              <LastState Value="0" RealAddress="0980FBEB"/>
+              <VariableType>Byte</VariableType>
+              <Address>+4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>57</ID>
+              <Description>"3"</Description>
+              <LastState Value="0" RealAddress="0980FBEF"/>
+              <VariableType>Byte</VariableType>
+              <Address>+8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>58</ID>
+              <Description>"4"</Description>
+              <LastState Value="0" RealAddress="0980FBF3"/>
+              <VariableType>Byte</VariableType>
+              <Address>+C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>59</ID>
+              <Description>"5"</Description>
+              <LastState Value="0" RealAddress="0980FBF7"/>
+              <VariableType>Byte</VariableType>
+              <Address>+10</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>60</ID>
+              <Description>"6"</Description>
+              <LastState Value="0" RealAddress="0980FBFB"/>
+              <VariableType>Byte</VariableType>
+              <Address>+14</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>61</ID>
+              <Description>"7"</Description>
+              <LastState Value="0" RealAddress="0980FBFF"/>
+              <VariableType>Byte</VariableType>
+              <Address>+18</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>62</ID>
+              <Description>"8"</Description>
+              <LastState Value="0" RealAddress="0980FC03"/>
+              <VariableType>Byte</VariableType>
+              <Address>+1C</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>63</ID>
+          <Description>"Page 7"</Description>
+          <Options moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="0" RealAddress="0980FC07"/>
+          <VariableType>Byte</VariableType>
+          <Address>VisualBoyAdvance.CxImageJPG::`vftable'+19ECF0</Address>
+          <Offsets>
+            <Offset>2897</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>64</ID>
+              <Description>"1"</Description>
+              <LastState Value="0" RealAddress="0980FC07"/>
+              <VariableType>Byte</VariableType>
+              <Address>+0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>65</ID>
+              <Description>"2"</Description>
+              <LastState Value="0" RealAddress="0980FC0B"/>
+              <VariableType>Byte</VariableType>
+              <Address>+4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>66</ID>
+              <Description>"3"</Description>
+              <LastState Value="0" RealAddress="0980FC0F"/>
+              <VariableType>Byte</VariableType>
+              <Address>+8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>67</ID>
+              <Description>"4"</Description>
+              <LastState Value="0" RealAddress="0980FC13"/>
+              <VariableType>Byte</VariableType>
+              <Address>+C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>68</ID>
+              <Description>"5"</Description>
+              <LastState Value="0" RealAddress="0980FC17"/>
+              <VariableType>Byte</VariableType>
+              <Address>+10</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>69</ID>
+              <Description>"6"</Description>
+              <LastState Value="0" RealAddress="0980FC1B"/>
+              <VariableType>Byte</VariableType>
+              <Address>+14</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>70</ID>
+              <Description>"7"</Description>
+              <LastState Value="0" RealAddress="0980FC1F"/>
+              <VariableType>Byte</VariableType>
+              <Address>+18</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>71</ID>
+              <Description>"8"</Description>
+              <LastState Value="0" RealAddress="0980FC23"/>
+              <VariableType>Byte</VariableType>
+              <Address>+1C</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>72</ID>
+          <Description>"Page 8"</Description>
+          <Options moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="1" RealAddress="0980FC27"/>
+          <VariableType>Byte</VariableType>
+          <Address>VisualBoyAdvance.CxImageJPG::`vftable'+19ECF0</Address>
+          <Offsets>
+            <Offset>28B7</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>73</ID>
+              <Description>"1"</Description>
+              <LastState Value="1" RealAddress="0980FC27"/>
+              <VariableType>Byte</VariableType>
+              <Address>+0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>74</ID>
+              <Description>"2"</Description>
+              <LastState Value="1" RealAddress="0980FC2B"/>
+              <VariableType>Byte</VariableType>
+              <Address>+4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>75</ID>
+              <Description>"3"</Description>
+              <LastState Value="1" RealAddress="0980FC2F"/>
+              <VariableType>Byte</VariableType>
+              <Address>+8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>76</ID>
+              <Description>"4"</Description>
+              <LastState Value="1" RealAddress="0980FC33"/>
+              <VariableType>Byte</VariableType>
+              <Address>+C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>77</ID>
+              <Description>"5"</Description>
+              <LastState Value="1" RealAddress="0980FC37"/>
+              <VariableType>Byte</VariableType>
+              <Address>+10</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>78</ID>
+              <Description>"6"</Description>
+              <LastState Value="1" RealAddress="0980FC3B"/>
+              <VariableType>Byte</VariableType>
+              <Address>+14</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>79</ID>
+              <Description>"7"</Description>
+              <LastState Value="1" RealAddress="0980FC3F"/>
+              <VariableType>Byte</VariableType>
+              <Address>+18</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>80</ID>
+              <Description>"8"</Description>
+              <LastState Value="1" RealAddress="0980FC43"/>
+              <VariableType>Byte</VariableType>
+              <Address>+1C</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>83</ID>
+      <Description>"Shelf"</Description>
+      <Options moHideChildren="1" moAllowManualCollapseAndExpand="1"/>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>82</ID>
+          <Description>"Page 1"</Description>
+          <Options moHideChildren="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="8" RealAddress="0980FC45"/>
+          <VariableType>Byte</VariableType>
+          <Address>VisualBoyAdvance.CxImageJPG::`vftable'+19ECF0</Address>
+          <Offsets>
+            <Offset>28D5</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>84</ID>
+              <Description>"1"</Description>
+              <LastState Value="8" RealAddress="0980FC45"/>
+              <VariableType>Byte</VariableType>
+              <Address>+0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>86</ID>
+              <Description>"2"</Description>
+              <LastState Value="9" RealAddress="0980FC47"/>
+              <VariableType>Byte</VariableType>
+              <Address>+2</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>94</ID>
+              <Description>"3"</Description>
+              <LastState Value="1" RealAddress="0980FC49"/>
+              <VariableType>Byte</VariableType>
+              <Address>+4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>93</ID>
+              <Description>"4"</Description>
+              <LastState Value="5" RealAddress="0980FC4B"/>
+              <VariableType>Byte</VariableType>
+              <Address>+6</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>92</ID>
+              <Description>"5"</Description>
+              <LastState Value="5" RealAddress="0980FC4D"/>
+              <VariableType>Byte</VariableType>
+              <Address>+8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>91</ID>
+              <Description>"6"</Description>
+              <LastState Value="8" RealAddress="0980FC4F"/>
+              <VariableType>Byte</VariableType>
+              <Address>+A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>90</ID>
+              <Description>"7"</Description>
+              <LastState Value="0" RealAddress="0980FC51"/>
+              <VariableType>Byte</VariableType>
+              <Address>+C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>89</ID>
+              <Description>"8"</Description>
+              <LastState Value="0" RealAddress="0980FC53"/>
+              <VariableType>Byte</VariableType>
+              <Address>+E</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>140</ID>
+          <Description>"Page 2"</Description>
+          <Options moHideChildren="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="2" RealAddress="0980FC55"/>
+          <VariableType>Byte</VariableType>
+          <Address>VisualBoyAdvance.CxImageJPG::`vftable'+19ECF0</Address>
+          <Offsets>
+            <Offset>28E5</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>141</ID>
+              <Description>"1"</Description>
+              <LastState Value="2" RealAddress="0980FC55"/>
+              <VariableType>Byte</VariableType>
+              <Address>+0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>142</ID>
+              <Description>"2"</Description>
+              <LastState Value="99" RealAddress="0980FC57"/>
+              <VariableType>Byte</VariableType>
+              <Address>+2</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>143</ID>
+              <Description>"3"</Description>
+              <LastState Value="0" RealAddress="0980FC59"/>
+              <VariableType>Byte</VariableType>
+              <Address>+4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>144</ID>
+              <Description>"4"</Description>
+              <LastState Value="0" RealAddress="0980FC5B"/>
+              <VariableType>Byte</VariableType>
+              <Address>+6</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>145</ID>
+              <Description>"5"</Description>
+              <LastState Value="0" RealAddress="0980FC5D"/>
+              <VariableType>Byte</VariableType>
+              <Address>+8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>146</ID>
+              <Description>"6"</Description>
+              <LastState Value="0" RealAddress="0980FC5F"/>
+              <VariableType>Byte</VariableType>
+              <Address>+A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>147</ID>
+              <Description>"7"</Description>
+              <LastState Value="0" RealAddress="0980FC61"/>
+              <VariableType>Byte</VariableType>
+              <Address>+C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>148</ID>
+              <Description>"8"</Description>
+              <LastState Value="0" RealAddress="0980FC63"/>
+              <VariableType>Byte</VariableType>
+              <Address>+E</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>131</ID>
+          <Description>"Page 3"</Description>
+          <Options moHideChildren="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="0" RealAddress="0980FC65"/>
+          <VariableType>Byte</VariableType>
+          <Address>VisualBoyAdvance.CxImageJPG::`vftable'+19ECF0</Address>
+          <Offsets>
+            <Offset>28F5</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>132</ID>
+              <Description>"1"</Description>
+              <LastState Value="0" RealAddress="0980FC65"/>
+              <VariableType>Byte</VariableType>
+              <Address>+0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>133</ID>
+              <Description>"2"</Description>
+              <LastState Value="0" RealAddress="0980FC67"/>
+              <VariableType>Byte</VariableType>
+              <Address>+2</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>134</ID>
+              <Description>"3"</Description>
+              <LastState Value="0" RealAddress="0980FC69"/>
+              <VariableType>Byte</VariableType>
+              <Address>+4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>135</ID>
+              <Description>"4"</Description>
+              <LastState Value="0" RealAddress="0980FC6B"/>
+              <VariableType>Byte</VariableType>
+              <Address>+6</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>136</ID>
+              <Description>"5"</Description>
+              <LastState Value="0" RealAddress="0980FC6D"/>
+              <VariableType>Byte</VariableType>
+              <Address>+8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>137</ID>
+              <Description>"6"</Description>
+              <LastState Value="0" RealAddress="0980FC6F"/>
+              <VariableType>Byte</VariableType>
+              <Address>+A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>138</ID>
+              <Description>"7"</Description>
+              <LastState Value="0" RealAddress="0980FC71"/>
+              <VariableType>Byte</VariableType>
+              <Address>+C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>139</ID>
+              <Description>"8"</Description>
+              <LastState Value="0" RealAddress="0980FC73"/>
+              <VariableType>Byte</VariableType>
+              <Address>+E</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>122</ID>
+          <Description>"Page 4"</Description>
+          <Options moHideChildren="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="0" RealAddress="0980FC75"/>
+          <VariableType>Byte</VariableType>
+          <Address>VisualBoyAdvance.CxImageJPG::`vftable'+19ECF0</Address>
+          <Offsets>
+            <Offset>2905</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>123</ID>
+              <Description>"1"</Description>
+              <LastState Value="0" RealAddress="0980FC75"/>
+              <VariableType>Byte</VariableType>
+              <Address>+0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>124</ID>
+              <Description>"2"</Description>
+              <LastState Value="0" RealAddress="0980FC77"/>
+              <VariableType>Byte</VariableType>
+              <Address>+2</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>125</ID>
+              <Description>"3"</Description>
+              <LastState Value="0" RealAddress="0980FC79"/>
+              <VariableType>Byte</VariableType>
+              <Address>+4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>126</ID>
+              <Description>"4"</Description>
+              <LastState Value="0" RealAddress="0980FC7B"/>
+              <VariableType>Byte</VariableType>
+              <Address>+6</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>127</ID>
+              <Description>"5"</Description>
+              <LastState Value="0" RealAddress="0980FC7D"/>
+              <VariableType>Byte</VariableType>
+              <Address>+8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>128</ID>
+              <Description>"6"</Description>
+              <LastState Value="0" RealAddress="0980FC7F"/>
+              <VariableType>Byte</VariableType>
+              <Address>+A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>129</ID>
+              <Description>"7"</Description>
+              <LastState Value="0" RealAddress="0980FC81"/>
+              <VariableType>Byte</VariableType>
+              <Address>+C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>130</ID>
+              <Description>"8"</Description>
+              <LastState Value="0" RealAddress="0980FC83"/>
+              <VariableType>Byte</VariableType>
+              <Address>+E</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>113</ID>
+          <Description>"Page 5"</Description>
+          <Options moHideChildren="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="0" RealAddress="0980FC85"/>
+          <VariableType>Byte</VariableType>
+          <Address>VisualBoyAdvance.CxImageJPG::`vftable'+19ECF0</Address>
+          <Offsets>
+            <Offset>2915</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>114</ID>
+              <Description>"1"</Description>
+              <LastState Value="0" RealAddress="0980FC85"/>
+              <VariableType>Byte</VariableType>
+              <Address>+0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>115</ID>
+              <Description>"2"</Description>
+              <LastState Value="0" RealAddress="0980FC87"/>
+              <VariableType>Byte</VariableType>
+              <Address>+2</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>116</ID>
+              <Description>"3"</Description>
+              <LastState Value="0" RealAddress="0980FC89"/>
+              <VariableType>Byte</VariableType>
+              <Address>+4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>117</ID>
+              <Description>"4"</Description>
+              <LastState Value="0" RealAddress="0980FC8B"/>
+              <VariableType>Byte</VariableType>
+              <Address>+6</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>118</ID>
+              <Description>"5"</Description>
+              <LastState Value="0" RealAddress="0980FC8D"/>
+              <VariableType>Byte</VariableType>
+              <Address>+8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>119</ID>
+              <Description>"6"</Description>
+              <LastState Value="0" RealAddress="0980FC8F"/>
+              <VariableType>Byte</VariableType>
+              <Address>+A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>120</ID>
+              <Description>"7"</Description>
+              <LastState Value="0" RealAddress="0980FC91"/>
+              <VariableType>Byte</VariableType>
+              <Address>+C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>121</ID>
+              <Description>"8"</Description>
+              <LastState Value="0" RealAddress="0980FC93"/>
+              <VariableType>Byte</VariableType>
+              <Address>+E</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>149</ID>
+          <Description>"Page 6"</Description>
+          <Options moHideChildren="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="0" RealAddress="0980FC95"/>
+          <VariableType>Byte</VariableType>
+          <Address>VisualBoyAdvance.CxImageJPG::`vftable'+19ECF0</Address>
+          <Offsets>
+            <Offset>2925</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>150</ID>
+              <Description>"1"</Description>
+              <LastState Value="0" RealAddress="0980FC95"/>
+              <VariableType>Byte</VariableType>
+              <Address>+0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>151</ID>
+              <Description>"2"</Description>
+              <LastState Value="0" RealAddress="0980FC97"/>
+              <VariableType>Byte</VariableType>
+              <Address>+2</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>152</ID>
+              <Description>"3"</Description>
+              <LastState Value="0" RealAddress="0980FC99"/>
+              <VariableType>Byte</VariableType>
+              <Address>+4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>153</ID>
+              <Description>"4"</Description>
+              <LastState Value="0" RealAddress="0980FC9B"/>
+              <VariableType>Byte</VariableType>
+              <Address>+6</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>154</ID>
+              <Description>"5"</Description>
+              <LastState Value="0" RealAddress="0980FC9D"/>
+              <VariableType>Byte</VariableType>
+              <Address>+8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>155</ID>
+              <Description>"6"</Description>
+              <LastState Value="0" RealAddress="0980FC9F"/>
+              <VariableType>Byte</VariableType>
+              <Address>+A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>156</ID>
+              <Description>"7"</Description>
+              <LastState Value="0" RealAddress="0980FCA1"/>
+              <VariableType>Byte</VariableType>
+              <Address>+C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>157</ID>
+              <Description>"8"</Description>
+              <LastState Value="0" RealAddress="0980FCA3"/>
+              <VariableType>Byte</VariableType>
+              <Address>+E</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>104</ID>
+          <Description>"Page 7"</Description>
+          <Options moHideChildren="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="0" RealAddress="0980FCA5"/>
+          <VariableType>Byte</VariableType>
+          <Address>VisualBoyAdvance.CxImageJPG::`vftable'+19ECF0</Address>
+          <Offsets>
+            <Offset>2935</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>105</ID>
+              <Description>"1"</Description>
+              <LastState Value="0" RealAddress="0980FCA5"/>
+              <VariableType>Byte</VariableType>
+              <Address>+0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>106</ID>
+              <Description>"2"</Description>
+              <LastState Value="0" RealAddress="0980FCA7"/>
+              <VariableType>Byte</VariableType>
+              <Address>+2</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>107</ID>
+              <Description>"3"</Description>
+              <LastState Value="0" RealAddress="0980FCA9"/>
+              <VariableType>Byte</VariableType>
+              <Address>+4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>108</ID>
+              <Description>"4"</Description>
+              <LastState Value="0" RealAddress="0980FCAB"/>
+              <VariableType>Byte</VariableType>
+              <Address>+6</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>109</ID>
+              <Description>"5"</Description>
+              <LastState Value="0" RealAddress="0980FCAD"/>
+              <VariableType>Byte</VariableType>
+              <Address>+8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>110</ID>
+              <Description>"6"</Description>
+              <LastState Value="0" RealAddress="0980FCAF"/>
+              <VariableType>Byte</VariableType>
+              <Address>+A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>111</ID>
+              <Description>"7"</Description>
+              <LastState Value="0" RealAddress="0980FCB1"/>
+              <VariableType>Byte</VariableType>
+              <Address>+C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>112</ID>
+              <Description>"8"</Description>
+              <LastState Value="0" RealAddress="0980FCB3"/>
+              <VariableType>Byte</VariableType>
+              <Address>+E</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>95</ID>
+          <Description>"Page 8"</Description>
+          <Options moHideChildren="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="0" RealAddress="0980FCB5"/>
+          <VariableType>Byte</VariableType>
+          <Address>VisualBoyAdvance.CxImageJPG::`vftable'+19ECF0</Address>
+          <Offsets>
+            <Offset>2945</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>96</ID>
+              <Description>"1"</Description>
+              <LastState Value="0" RealAddress="0980FCB5"/>
+              <VariableType>Byte</VariableType>
+              <Address>+0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>97</ID>
+              <Description>"2"</Description>
+              <LastState Value="0" RealAddress="0980FCB7"/>
+              <VariableType>Byte</VariableType>
+              <Address>+2</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>98</ID>
+              <Description>"3"</Description>
+              <LastState Value="0" RealAddress="0980FCB9"/>
+              <VariableType>Byte</VariableType>
+              <Address>+4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>99</ID>
+              <Description>"4"</Description>
+              <LastState Value="0" RealAddress="0980FCBB"/>
+              <VariableType>Byte</VariableType>
+              <Address>+6</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>100</ID>
+              <Description>"5"</Description>
+              <LastState Value="1" RealAddress="0980FCBD"/>
+              <VariableType>Byte</VariableType>
+              <Address>+8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>101</ID>
+              <Description>"6"</Description>
+              <LastState Value="1" RealAddress="0980FCBF"/>
+              <VariableType>Byte</VariableType>
+              <Address>+A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>102</ID>
+              <Description>"7"</Description>
+              <LastState Value="1" RealAddress="0980FCC1"/>
+              <VariableType>Byte</VariableType>
+              <Address>+C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>103</ID>
+              <Description>"8"</Description>
+              <LastState Value="1" RealAddress="0980FCC3"/>
+              <VariableType>Byte</VariableType>
+              <Address>+E</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>162</ID>
+      <Description>"Tool Box"</Description>
+      <Options moHideChildren="1" moAllowManualCollapseAndExpand="1"/>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>160</ID>
+          <Description>"Page 1"</Description>
+          <Options moHideChildren="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="1" RealAddress="0980FCC9"/>
+          <VariableType>Byte</VariableType>
+          <Address>VisualBoyAdvance.CxImageJPG::`vftable'+19ECF0</Address>
+          <Offsets>
+            <Offset>2959</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>163</ID>
+              <Description>"1"</Description>
+              <LastState Value="1" RealAddress="0980FCC9"/>
+              <VariableType>Byte</VariableType>
+              <Address>+0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>164</ID>
+              <Description>"2"</Description>
+              <LastState Value="0" RealAddress="0980FCCB"/>
+              <VariableType>Byte</VariableType>
+              <Address>+2</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>165</ID>
+              <Description>"3"</Description>
+              <LastState Value="1" RealAddress="0980FCCD"/>
+              <VariableType>Byte</VariableType>
+              <Address>+4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>166</ID>
+              <Description>"4"</Description>
+              <LastState Value="1" RealAddress="0980FCCF"/>
+              <VariableType>Byte</VariableType>
+              <Address>+6</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>167</ID>
+              <Description>"5"</Description>
+              <LastState Value="1" RealAddress="0980FCD1"/>
+              <VariableType>Byte</VariableType>
+              <Address>+8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>168</ID>
+              <Description>"6"</Description>
+              <LastState Value="1" RealAddress="0980FCD3"/>
+              <VariableType>Byte</VariableType>
+              <Address>+A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>169</ID>
+              <Description>"7"</Description>
+              <LastState Value="1" RealAddress="0980FCD5"/>
+              <VariableType>Byte</VariableType>
+              <Address>+C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>170</ID>
+              <Description>"8"</Description>
+              <LastState Value="1" RealAddress="0980FCD7"/>
+              <VariableType>Byte</VariableType>
+              <Address>+E</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>171</ID>
+          <Description>"Page 2"</Description>
+          <Options moHideChildren="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="99" RealAddress="0980FCD9"/>
+          <VariableType>Byte</VariableType>
+          <Address>VisualBoyAdvance.CxImageJPG::`vftable'+19ECF0</Address>
+          <Offsets>
+            <Offset>2969</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>172</ID>
+              <Description>"1"</Description>
+              <LastState Value="99" RealAddress="0980FCD9"/>
+              <VariableType>Byte</VariableType>
+              <Address>+0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>173</ID>
+              <Description>"2"</Description>
+              <LastState Value="99" RealAddress="0980FCDB"/>
+              <VariableType>Byte</VariableType>
+              <Address>+2</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>174</ID>
+              <Description>"3"</Description>
+              <LastState Value="99" RealAddress="0980FCDD"/>
+              <VariableType>Byte</VariableType>
+              <Address>+4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>175</ID>
+              <Description>"4"</Description>
+              <LastState Value="96" RealAddress="0980FCDF"/>
+              <VariableType>Byte</VariableType>
+              <Address>+6</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>176</ID>
+              <Description>"5"</Description>
+              <LastState Value="99" RealAddress="0980FCE1"/>
+              <VariableType>Byte</VariableType>
+              <Address>+8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>177</ID>
+              <Description>"6"</Description>
+              <LastState Value="99" RealAddress="0980FCE3"/>
+              <VariableType>Byte</VariableType>
+              <Address>+A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>178</ID>
+              <Description>"7"</Description>
+              <LastState Value="99" RealAddress="0980FCE5"/>
+              <VariableType>Byte</VariableType>
+              <Address>+C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>179</ID>
+              <Description>"8"</Description>
+              <LastState Value="99" RealAddress="0980FCE7"/>
+              <VariableType>Byte</VariableType>
+              <Address>+E</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>180</ID>
+          <Description>"Page 3"</Description>
+          <Options moHideChildren="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="74" RealAddress="0980FCE9"/>
+          <VariableType>Byte</VariableType>
+          <Address>VisualBoyAdvance.CxImageJPG::`vftable'+19ECF0</Address>
+          <Offsets>
+            <Offset>2979</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>181</ID>
+              <Description>"1"</Description>
+              <LastState Value="74" RealAddress="0980FCE9"/>
+              <VariableType>Byte</VariableType>
+              <Address>+0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>182</ID>
+              <Description>"2"</Description>
+              <LastState Value="74" RealAddress="0980FCEB"/>
+              <VariableType>Byte</VariableType>
+              <Address>+2</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>183</ID>
+              <Description>"3"</Description>
+              <LastState Value="67" RealAddress="0980FCED"/>
+              <VariableType>Byte</VariableType>
+              <Address>+4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>184</ID>
+              <Description>"4"</Description>
+              <LastState Value="84" RealAddress="0980FCEF"/>
+              <VariableType>Byte</VariableType>
+              <Address>+6</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>185</ID>
+              <Description>"5"</Description>
+              <LastState Value="95" RealAddress="0980FCF1"/>
+              <VariableType>Byte</VariableType>
+              <Address>+8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>186</ID>
+              <Description>"6"</Description>
+              <LastState Value="99" RealAddress="0980FCF3"/>
+              <VariableType>Byte</VariableType>
+              <Address>+A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>187</ID>
+              <Description>"7"</Description>
+              <LastState Value="99" RealAddress="0980FCF5"/>
+              <VariableType>Byte</VariableType>
+              <Address>+C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>188</ID>
+              <Description>"8"</Description>
+              <LastState Value="95" RealAddress="0980FCF7"/>
+              <VariableType>Byte</VariableType>
+              <Address>+E</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>198</ID>
+          <Description>"Page 4"</Description>
+          <Options moHideChildren="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="1" RealAddress="0980FCF9"/>
+          <VariableType>Byte</VariableType>
+          <Address>VisualBoyAdvance.CxImageJPG::`vftable'+19ECF0</Address>
+          <Offsets>
+            <Offset>2989</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>199</ID>
+              <Description>"1"</Description>
+              <LastState Value="1" RealAddress="0980FCF9"/>
+              <VariableType>Byte</VariableType>
+              <Address>+0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>200</ID>
+              <Description>"2"</Description>
+              <LastState Value="0" RealAddress="0980FCFB"/>
+              <VariableType>Byte</VariableType>
+              <Address>+2</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>201</ID>
+              <Description>"3"</Description>
+              <LastState Value="1" RealAddress="0980FCFD"/>
+              <VariableType>Byte</VariableType>
+              <Address>+4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>202</ID>
+              <Description>"4"</Description>
+              <LastState Value="91" RealAddress="0980FCFF"/>
+              <VariableType>Byte</VariableType>
+              <Address>+6</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>203</ID>
+              <Description>"5"</Description>
+              <LastState Value="0" RealAddress="0980FD01"/>
+              <VariableType>Byte</VariableType>
+              <Address>+8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>204</ID>
+              <Description>"6"</Description>
+              <LastState Value="0" RealAddress="0980FD03"/>
+              <VariableType>Byte</VariableType>
+              <Address>+A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>205</ID>
+              <Description>"7"</Description>
+              <LastState Value="0" RealAddress="0980FD05"/>
+              <VariableType>Byte</VariableType>
+              <Address>+C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>206</ID>
+              <Description>"8"</Description>
+              <LastState Value="0" RealAddress="0980FD07"/>
+              <VariableType>Byte</VariableType>
+              <Address>+E</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>189</ID>
+          <Description>"Page 5"</Description>
+          <Options moHideChildren="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="0" RealAddress="0980FD09"/>
+          <VariableType>Byte</VariableType>
+          <Address>VisualBoyAdvance.CxImageJPG::`vftable'+19ECF0</Address>
+          <Offsets>
+            <Offset>2999</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>190</ID>
+              <Description>"1"</Description>
+              <LastState Value="0" RealAddress="0980FD09"/>
+              <VariableType>Byte</VariableType>
+              <Address>+0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>191</ID>
+              <Description>"2"</Description>
+              <LastState Value="0" RealAddress="0980FD0B"/>
+              <VariableType>Byte</VariableType>
+              <Address>+2</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>192</ID>
+              <Description>"3"</Description>
+              <LastState Value="0" RealAddress="0980FD0D"/>
+              <VariableType>Byte</VariableType>
+              <Address>+4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>193</ID>
+              <Description>"4"</Description>
+              <LastState Value="0" RealAddress="0980FD0F"/>
+              <VariableType>Byte</VariableType>
+              <Address>+6</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>194</ID>
+              <Description>"5"</Description>
+              <LastState Value="0" RealAddress="0980FD11"/>
+              <VariableType>Byte</VariableType>
+              <Address>+8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>195</ID>
+              <Description>"6"</Description>
+              <LastState Value="0" RealAddress="0980FD13"/>
+              <VariableType>Byte</VariableType>
+              <Address>+A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>196</ID>
+              <Description>"7"</Description>
+              <LastState Value="0" RealAddress="0980FD15"/>
+              <VariableType>Byte</VariableType>
+              <Address>+C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>197</ID>
+              <Description>"8"</Description>
+              <LastState Value="0" RealAddress="0980FD17"/>
+              <VariableType>Byte</VariableType>
+              <Address>+E</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>207</ID>
+          <Description>"Page 6"</Description>
+          <Options moHideChildren="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="0" RealAddress="0980FD19"/>
+          <VariableType>Byte</VariableType>
+          <Address>VisualBoyAdvance.CxImageJPG::`vftable'+19ECF0</Address>
+          <Offsets>
+            <Offset>29A9</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>208</ID>
+              <Description>"1"</Description>
+              <LastState Value="0" RealAddress="0980FD19"/>
+              <VariableType>Byte</VariableType>
+              <Address>+0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>209</ID>
+              <Description>"2"</Description>
+              <LastState Value="0" RealAddress="0980FD1B"/>
+              <VariableType>Byte</VariableType>
+              <Address>+2</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>210</ID>
+              <Description>"3"</Description>
+              <LastState Value="0" RealAddress="0980FD1D"/>
+              <VariableType>Byte</VariableType>
+              <Address>+4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>211</ID>
+              <Description>"4"</Description>
+              <LastState Value="0" RealAddress="0980FD1F"/>
+              <VariableType>Byte</VariableType>
+              <Address>+6</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>212</ID>
+              <Description>"5"</Description>
+              <LastState Value="0" RealAddress="0980FD21"/>
+              <VariableType>Byte</VariableType>
+              <Address>+8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>213</ID>
+              <Description>"6"</Description>
+              <LastState Value="0" RealAddress="0980FD23"/>
+              <VariableType>Byte</VariableType>
+              <Address>+A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>214</ID>
+              <Description>"7"</Description>
+              <LastState Value="0" RealAddress="0980FD25"/>
+              <VariableType>Byte</VariableType>
+              <Address>+C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>215</ID>
+              <Description>"8"</Description>
+              <LastState Value="0" RealAddress="0980FD27"/>
+              <VariableType>Byte</VariableType>
+              <Address>+E</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>216</ID>
+          <Description>"Page 7"</Description>
+          <Options moHideChildren="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="0" RealAddress="0980FD29"/>
+          <VariableType>Byte</VariableType>
+          <Address>VisualBoyAdvance.CxImageJPG::`vftable'+19ECF0</Address>
+          <Offsets>
+            <Offset>29B9</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>217</ID>
+              <Description>"1"</Description>
+              <LastState Value="0" RealAddress="0980FD29"/>
+              <VariableType>Byte</VariableType>
+              <Address>+0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>218</ID>
+              <Description>"2"</Description>
+              <LastState Value="0" RealAddress="0980FD2B"/>
+              <VariableType>Byte</VariableType>
+              <Address>+2</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>219</ID>
+              <Description>"3"</Description>
+              <LastState Value="0" RealAddress="0980FD2D"/>
+              <VariableType>Byte</VariableType>
+              <Address>+4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>220</ID>
+              <Description>"4"</Description>
+              <LastState Value="1" RealAddress="0980FD2F"/>
+              <VariableType>Byte</VariableType>
+              <Address>+6</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>221</ID>
+              <Description>"5"</Description>
+              <LastState Value="1" RealAddress="0980FD31"/>
+              <VariableType>Byte</VariableType>
+              <Address>+8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>222</ID>
+              <Description>"6"</Description>
+              <LastState Value="1" RealAddress="0980FD33"/>
+              <VariableType>Byte</VariableType>
+              <Address>+A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>223</ID>
+              <Description>"7"</Description>
+              <LastState Value="1" RealAddress="0980FD35"/>
+              <VariableType>Byte</VariableType>
+              <Address>+C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>224</ID>
+              <Description>"8"</Description>
+              <LastState Value="94" RealAddress="0980FD37"/>
+              <VariableType>Byte</VariableType>
+              <Address>+E</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>225</ID>
+          <Description>"Page 8"</Description>
+          <Options moHideChildren="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="1" RealAddress="0980FD39"/>
+          <VariableType>Byte</VariableType>
+          <Address>VisualBoyAdvance.CxImageJPG::`vftable'+19ECF0</Address>
+          <Offsets>
+            <Offset>29C9</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>226</ID>
+              <Description>"1"</Description>
+              <LastState Value="1" RealAddress="0980FD39"/>
+              <VariableType>Byte</VariableType>
+              <Address>+0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>227</ID>
+              <Description>"2"</Description>
+              <LastState Value="0" RealAddress="0980FD3B"/>
+              <VariableType>Byte</VariableType>
+              <Address>+2</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>228</ID>
+              <Description>"3"</Description>
+              <LastState Value="1" RealAddress="0980FD3D"/>
+              <VariableType>Byte</VariableType>
+              <Address>+4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>229</ID>
+              <Description>"4"</Description>
+              <LastState Value="0" RealAddress="0980FD3F"/>
+              <VariableType>Byte</VariableType>
+              <Address>+6</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>230</ID>
+              <Description>"5"</Description>
+              <LastState Value="1" RealAddress="0980FD41"/>
+              <VariableType>Byte</VariableType>
+              <Address>+8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>231</ID>
+              <Description>"6"</Description>
+              <LastState Value="1" RealAddress="0980FD43"/>
+              <VariableType>Byte</VariableType>
+              <Address>+A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>232</ID>
+              <Description>"7"</Description>
+              <LastState Value="0" RealAddress="0980FD45"/>
+              <VariableType>Byte</VariableType>
+              <Address>+C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>233</ID>
+              <Description>"8"</Description>
+              <LastState Value="0" RealAddress="0980FD47"/>
+              <VariableType>Byte</VariableType>
+              <Address>+E</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>245</ID>
+      <Description>"Tools"</Description>
+      <Options moHideChildren="1" moAllowManualCollapseAndExpand="1"/>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>246</ID>
+          <Description>"Axe"</Description>
+          <LastState Value="65535" RealAddress="09811554"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>VisualBoyAdvance.CxImageJPG::`vftable'+19ECF0</Address>
+          <Offsets>
+            <Offset>41E4</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>248</ID>
+          <Description>"Fishing Rod"</Description>
+          <LastState Value="65535" RealAddress="09811560"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>VisualBoyAdvance.CxImageJPG::`vftable'+19ECF0</Address>
+          <Offsets>
+            <Offset>41F0</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>247</ID>
+          <Description>"Hammer"</Description>
+          <LastState Value="65535" RealAddress="09811558"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>VisualBoyAdvance.CxImageJPG::`vftable'+19ECF0</Address>
+          <Offsets>
+            <Offset>41E8</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>239</ID>
+          <Description>"Hoe"</Description>
+          <LastState Value="65535" RealAddress="0981154C"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>VisualBoyAdvance.CxImageJPG::`vftable'+19ECF0</Address>
+          <Offsets>
+            <Offset>41DC</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>244</ID>
+          <Description>"Sickle"</Description>
+          <LastState Value="65535" RealAddress="09811550"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>VisualBoyAdvance.CxImageJPG::`vftable'+19ECF0</Address>
+          <Offsets>
+            <Offset>41E0</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>249</ID>
+          <Description>"Watercan"</Description>
+          <LastState Value="65535" RealAddress="0981155C"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>VisualBoyAdvance.CxImageJPG::`vftable'+19ECF0</Address>
+          <Offsets>
+            <Offset>41EC</Offset>
+          </Offsets>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>276</ID>
+      <Description>"Affection"</Description>
+      <Options moHideChildren="1" moAllowManualCollapseAndExpand="1"/>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>266</ID>
+          <Description>"Sprites"</Description>
+          <Options moHideChildren="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="209" RealAddress="09811960"/>
+          <VariableType>Byte</VariableType>
+          <Address>0072F9F0</Address>
+          <Offsets>
+            <Offset>45F0</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>267</ID>
+              <Description>"Staid"</Description>
+              <LastState Value="209" RealAddress="09811960"/>
+              <VariableType>Byte</VariableType>
+              <Address>+0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>268</ID>
+              <Description>"Nappy"</Description>
+              <LastState Value="194" RealAddress="09811984"/>
+              <VariableType>Byte</VariableType>
+              <Address>+24</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>269</ID>
+              <Description>"Bold"</Description>
+              <LastState Value="207" RealAddress="098119A8"/>
+              <VariableType>Byte</VariableType>
+              <Address>+48</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>270</ID>
+              <Description>"Chef"</Description>
+              <LastState Value="208" RealAddress="098119CC"/>
+              <VariableType>Byte</VariableType>
+              <Address>+0000006C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>271</ID>
+              <Description>"Aqua"</Description>
+              <LastState Value="215" RealAddress="098119F0"/>
+              <VariableType>Byte</VariableType>
+              <Address>+00000090</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>272</ID>
+              <Description>"Hoggy"</Description>
+              <LastState Value="211" RealAddress="09811A14"/>
+              <VariableType>Byte</VariableType>
+              <Address>+000000B4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>273</ID>
+              <Description>"Timid"</Description>
+              <LastState Value="208" RealAddress="09811A38"/>
+              <VariableType>Byte</VariableType>
+              <Address>+000000D8</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>277</ID>
+          <Description>"Village"</Description>
+          <Options moHideChildren="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="128" RealAddress="0980D370"/>
+          <VariableType>Byte</VariableType>
+          <Address>0072F9F0</Address>
+          <Offsets>
+            <Offset>0</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>278</ID>
+              <Description>"Jeff"</Description>
+              <LastState Value="239" RealAddress="098117E0"/>
+              <VariableType>Byte</VariableType>
+              <Address>+4470</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>279</ID>
+              <Description>"Harris"</Description>
+              <LastState Value="233" RealAddress="098117A4"/>
+              <VariableType>Byte</VariableType>
+              <Address>+4434</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>280</ID>
+              <Description>"Gotz"</Description>
+              <LastState Value="236" RealAddress="098118B4"/>
+              <VariableType>Byte</VariableType>
+              <Address>+4544</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>281</ID>
+              <Description>"Anna"</Description>
+              <LastState Value="234" RealAddress="09811764"/>
+              <VariableType>Byte</VariableType>
+              <Address>+43f4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>282</ID>
+              <Description>"Barley"</Description>
+              <LastState Value="246" RealAddress="098116D4"/>
+              <VariableType>Byte</VariableType>
+              <Address>+4364</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>283</ID>
+              <Description>"Basil"</Description>
+              <LastState Value="246" RealAddress="09811750"/>
+              <VariableType>Byte</VariableType>
+              <Address>+43e0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>284</ID>
+              <Description>"Carter"</Description>
+              <LastState Value="248" RealAddress="0981184C"/>
+              <VariableType>Byte</VariableType>
+              <Address>+44dc</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>285</ID>
+              <Description>"Doug"</Description>
+              <LastState Value="243" RealAddress="09811874"/>
+              <VariableType>Byte</VariableType>
+              <Address>+4504</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>286</ID>
+              <Description>"Duke"</Description>
+              <LastState Value="242" RealAddress="09811728"/>
+              <VariableType>Byte</VariableType>
+              <Address>+43b8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>287</ID>
+              <Description>"Lillia"</Description>
+              <LastState Value="237" RealAddress="09811694"/>
+              <VariableType>Byte</VariableType>
+              <Address>+4324</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>288</ID>
+              <Description>"Manna"</Description>
+              <LastState Value="234" RealAddress="0981173C"/>
+              <VariableType>Byte</VariableType>
+              <Address>+43cc</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>289</ID>
+              <Description>"Saibara"</Description>
+              <LastState Value="247" RealAddress="098116FC"/>
+              <VariableType>Byte</VariableType>
+              <Address>+438c</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>290</ID>
+              <Description>"Ellen"</Description>
+              <LastState Value="243" RealAddress="098117B8"/>
+              <VariableType>Byte</VariableType>
+              <Address>+4448</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>291</ID>
+              <Description>"Thomas"</Description>
+              <LastState Value="246" RealAddress="09811790"/>
+              <VariableType>Byte</VariableType>
+              <Address>+4420</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>292</ID>
+              <Description>"Zack"</Description>
+              <LastState Value="237" RealAddress="098118CC"/>
+              <VariableType>Byte</VariableType>
+              <Address>+455c</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>293</ID>
+              <Description>"Sasha"</Description>
+              <LastState Value="237" RealAddress="098117F4"/>
+              <VariableType>Byte</VariableType>
+              <Address>+4484</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>297</ID>
+      <Description>"Mine Level"</Description>
+      <Options moHideChildren="1" moAllowManualCollapseAndExpand="1"/>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>295</ID>
+          <Description>"Spring Mine Lv X (X = Value - 52)"</Description>
+          <LastState Value="" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>296</ID>
+          <Description>"Winter Mine Lv X (X = Value - 308)"</Description>
+          <LastState Value="" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>294</ID>
+          <Description>"Value"</Description>
+          <LastState Value="29" RealAddress="09813068"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>VisualBoyAdvance.CxImageJPG::`vftable'+19ECF0</Address>
+          <Offsets>
+            <Offset>5CF8</Offset>
+          </Offsets>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>301</ID>
+      <Description>"Animal"</Description>
+      <Options moHideChildren="1" moAllowManualCollapseAndExpand="1"/>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>367</ID>
+          <Description>"Dog"</Description>
+          <Options moHideChildren="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="16446" RealAddress="098115D0"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>0072F9F0</Address>
+          <Offsets>
+            <Offset>4260</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>368</ID>
+              <Description>"Win Contest (DO NOT CHANGE)"</Description>
+              <LastState Value="16446" RealAddress="098115D0"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>+0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>369</ID>
+              <Description>"Heart"</Description>
+              <LastState Value="65535" RealAddress="098115D2"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>+00000002</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>370</ID>
+              <Description>"Grown Up"</Description>
+              <LastState Value="0" RealAddress="098115D4"/>
+              <VariableType>Byte</VariableType>
+              <Address>+00000004</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>371</ID>
+          <Description>"Horse"</Description>
+          <Options moHideChildren="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="20537" RealAddress="0980F988"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>0072F9F0</Address>
+          <Offsets>
+            <Offset>2618</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>372</ID>
+              <Description>"Win Contest (DO NOT CHANGE)"</Description>
+              <LastState Value="20537" RealAddress="0980F988"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>+0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>373</ID>
+              <Description>"Heart"</Description>
+              <LastState Value="65535" RealAddress="0980F98A"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>+00000002</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>374</ID>
+              <Description>"Grown Up"</Description>
+              <LastState Value="0" RealAddress="0980F98C"/>
+              <VariableType>Byte</VariableType>
+              <Address>+00000004</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>305</ID>
+          <Description>"Barn"</Description>
+          <Options moHideChildren="1" moAllowManualCollapseAndExpand="1"/>
+          <DropDownList ReadOnly="1" DescriptionOnly="1">64512:Enable
+0:Disable
+</DropDownList>
+          <LastState Value="64512" RealAddress="0980FF80"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>0072F9F0</Address>
+          <Offsets>
+            <Offset>2C10</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>298</ID>
+              <Description>"Barn Animal 1"</Description>
+              <Options moHideChildren="1" moAllowManualCollapseAndExpand="1"/>
+              <DropDownList ReadOnly="1" DescriptionOnly="1">64512:Enable
+0:Disable
+</DropDownList>
+              <LastState Value="64512" RealAddress="0980FF80"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>+0</Address>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>304</ID>
+                  <Description>"Crown"</Description>
+                  <DropDownList ReadOnly="1" DescriptionOnly="1">64512:Enable
+0:Disable
+</DropDownList>
+                  <LastState Value="64512" RealAddress="0980FF80"/>
+                  <VariableType>2 Bytes</VariableType>
+                  <Address>+0</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>299</ID>
+                  <Description>"Heart"</Description>
+                  <LastState Value="31" RealAddress="0980FF82"/>
+                  <VariableType>Byte</VariableType>
+                  <Address>+2</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>300</ID>
+                  <Description>"Grown Up"</Description>
+                  <LastState Value="31" RealAddress="0980FF84"/>
+                  <VariableType>Byte</VariableType>
+                  <Address>+4</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>306</ID>
+              <Description>"Barn Animal 2"</Description>
+              <Options moHideChildren="1" moAllowManualCollapseAndExpand="1"/>
+              <DropDownList ReadOnly="1" DescriptionOnly="1">64512:Enable
+0:Disable
+</DropDownList>
+              <LastState Value="19724" RealAddress="0980FFBC"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>+3C</Address>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>307</ID>
+                  <Description>"Crown"</Description>
+                  <DropDownList ReadOnly="1" DescriptionOnly="1">64512:Enable
+0:Disable
+</DropDownList>
+                  <LastState Value="19724" RealAddress="0980FFBC"/>
+                  <VariableType>2 Bytes</VariableType>
+                  <Address>+0</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>308</ID>
+                  <Description>"Heart"</Description>
+                  <LastState Value="255" RealAddress="0980FFBE"/>
+                  <VariableType>Byte</VariableType>
+                  <Address>+2</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>309</ID>
+                  <Description>"Grown Up"</Description>
+                  <LastState Value="31" RealAddress="0980FFC0"/>
+                  <VariableType>Byte</VariableType>
+                  <Address>+4</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>310</ID>
+              <Description>"Barn Animal 3"</Description>
+              <Options moHideChildren="1" moAllowManualCollapseAndExpand="1"/>
+              <DropDownList ReadOnly="1" DescriptionOnly="1">64512:Enable
+0:Disable
+</DropDownList>
+              <LastState Value="19724" RealAddress="0980FFF8"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>+00000078</Address>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>311</ID>
+                  <Description>"Crown"</Description>
+                  <DropDownList ReadOnly="1" DescriptionOnly="1">64512:Enable
+0:Disable
+</DropDownList>
+                  <LastState Value="19724" RealAddress="0980FFF8"/>
+                  <VariableType>2 Bytes</VariableType>
+                  <Address>+0</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>312</ID>
+                  <Description>"Heart"</Description>
+                  <LastState Value="255" RealAddress="0980FFFA"/>
+                  <VariableType>Byte</VariableType>
+                  <Address>+2</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>313</ID>
+                  <Description>"Grown Up"</Description>
+                  <LastState Value="31" RealAddress="0980FFFC"/>
+                  <VariableType>Byte</VariableType>
+                  <Address>+4</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>314</ID>
+              <Description>"Barn Animal 4"</Description>
+              <Options moHideChildren="1" moAllowManualCollapseAndExpand="1"/>
+              <DropDownList ReadOnly="1" DescriptionOnly="1">64512:Enable
+0:Disable
+</DropDownList>
+              <LastState Value="23820" RealAddress="09810034"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>+000000B4</Address>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>315</ID>
+                  <Description>"Crown"</Description>
+                  <DropDownList ReadOnly="1" DescriptionOnly="1">64512:Enable
+0:Disable
+</DropDownList>
+                  <LastState Value="23820" RealAddress="09810034"/>
+                  <VariableType>2 Bytes</VariableType>
+                  <Address>+0</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>316</ID>
+                  <Description>"Heart"</Description>
+                  <LastState Value="255" RealAddress="09810036"/>
+                  <VariableType>Byte</VariableType>
+                  <Address>+2</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>317</ID>
+                  <Description>"Grown Up"</Description>
+                  <LastState Value="31" RealAddress="09810038"/>
+                  <VariableType>Byte</VariableType>
+                  <Address>+4</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>318</ID>
+              <Description>"Barn Animal 5"</Description>
+              <Options moHideChildren="1" moAllowManualCollapseAndExpand="1"/>
+              <DropDownList ReadOnly="1" DescriptionOnly="1">64512:Enable
+0:Disable
+</DropDownList>
+              <LastState Value="19724" RealAddress="09810070"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>+000000F0</Address>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>319</ID>
+                  <Description>"Crown"</Description>
+                  <DropDownList ReadOnly="1" DescriptionOnly="1">64512:Enable
+0:Disable
+</DropDownList>
+                  <LastState Value="19724" RealAddress="09810070"/>
+                  <VariableType>2 Bytes</VariableType>
+                  <Address>+0</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>320</ID>
+                  <Description>"Heart"</Description>
+                  <LastState Value="255" RealAddress="09810072"/>
+                  <VariableType>Byte</VariableType>
+                  <Address>+2</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>321</ID>
+                  <Description>"Grown Up"</Description>
+                  <LastState Value="31" RealAddress="09810074"/>
+                  <VariableType>Byte</VariableType>
+                  <Address>+4</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>322</ID>
+              <Description>"Barn Animal 6"</Description>
+              <Options moHideChildren="1" moAllowManualCollapseAndExpand="1"/>
+              <DropDownList ReadOnly="1" DescriptionOnly="1">64512:Enable
+0:Disable
+</DropDownList>
+              <LastState Value="19724" RealAddress="098100AC"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>+0000012C</Address>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>323</ID>
+                  <Description>"Crown"</Description>
+                  <DropDownList ReadOnly="1" DescriptionOnly="1">64512:Enable
+0:Disable
+</DropDownList>
+                  <LastState Value="19724" RealAddress="098100AC"/>
+                  <VariableType>2 Bytes</VariableType>
+                  <Address>+0</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>324</ID>
+                  <Description>"Heart"</Description>
+                  <LastState Value="255" RealAddress="098100AE"/>
+                  <VariableType>Byte</VariableType>
+                  <Address>+2</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>325</ID>
+                  <Description>"Grown Up"</Description>
+                  <LastState Value="31" RealAddress="098100B0"/>
+                  <VariableType>Byte</VariableType>
+                  <Address>+4</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>326</ID>
+              <Description>"Barn Animal 7"</Description>
+              <Options moHideChildren="1" moAllowManualCollapseAndExpand="1"/>
+              <DropDownList ReadOnly="1" DescriptionOnly="1">64512:Enable
+0:Disable
+</DropDownList>
+              <LastState Value="19724" RealAddress="098100E8"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>+00000168</Address>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>327</ID>
+                  <Description>"Crown"</Description>
+                  <DropDownList ReadOnly="1" DescriptionOnly="1">64512:Enable
+0:Disable
+</DropDownList>
+                  <LastState Value="19724" RealAddress="098100E8"/>
+                  <VariableType>2 Bytes</VariableType>
+                  <Address>+0</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>328</ID>
+                  <Description>"Heart"</Description>
+                  <LastState Value="255" RealAddress="098100EA"/>
+                  <VariableType>Byte</VariableType>
+                  <Address>+2</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>329</ID>
+                  <Description>"Grown Up"</Description>
+                  <LastState Value="31" RealAddress="098100EC"/>
+                  <VariableType>Byte</VariableType>
+                  <Address>+4</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>330</ID>
+              <Description>"Barn Animal 8"</Description>
+              <Options moHideChildren="1" moAllowManualCollapseAndExpand="1"/>
+              <DropDownList ReadOnly="1" DescriptionOnly="1">64512:Enable
+0:Disable
+</DropDownList>
+              <LastState Value="19724" RealAddress="09810124"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>+000001A4</Address>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>331</ID>
+                  <Description>"Crown"</Description>
+                  <DropDownList ReadOnly="1" DescriptionOnly="1">64512:Enable
+0:Disable
+</DropDownList>
+                  <LastState Value="19724" RealAddress="09810124"/>
+                  <VariableType>2 Bytes</VariableType>
+                  <Address>+0</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>332</ID>
+                  <Description>"Heart"</Description>
+                  <LastState Value="255" RealAddress="09810126"/>
+                  <VariableType>Byte</VariableType>
+                  <Address>+2</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>333</ID>
+                  <Description>"Grown Up"</Description>
+                  <LastState Value="31" RealAddress="09810128"/>
+                  <VariableType>Byte</VariableType>
+                  <Address>+4</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>334</ID>
+          <Description>"Barn Extra"</Description>
+          <Options moHideChildren="1" moAllowManualCollapseAndExpand="1"/>
+          <DropDownList ReadOnly="1" DescriptionOnly="1">64512:Enable
+0:Disable
+</DropDownList>
+          <LastState Value="1280" RealAddress="09810160"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>0072F9F0</Address>
+          <Offsets>
+            <Offset>2DF0</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>335</ID>
+              <Description>"Barn Animal 1"</Description>
+              <Options moHideChildren="1" moAllowManualCollapseAndExpand="1"/>
+              <DropDownList ReadOnly="1" DescriptionOnly="1">64512:Enable
+0:Disable
+</DropDownList>
+              <LastState Value="1280" RealAddress="09810160"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>+0</Address>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>336</ID>
+                  <Description>"Crown"</Description>
+                  <DropDownList ReadOnly="1" DescriptionOnly="1">64512:Enable
+0:Disable
+</DropDownList>
+                  <LastState Value="1280" RealAddress="09810160"/>
+                  <VariableType>2 Bytes</VariableType>
+                  <Address>+0</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>337</ID>
+                  <Description>"Heart"</Description>
+                  <LastState Value="255" RealAddress="09810162"/>
+                  <VariableType>Byte</VariableType>
+                  <Address>+2</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>338</ID>
+                  <Description>"Grown Up"</Description>
+                  <LastState Value="0" RealAddress="09810164"/>
+                  <VariableType>Byte</VariableType>
+                  <Address>+4</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>339</ID>
+              <Description>"Barn Animal 2"</Description>
+              <Options moHideChildren="1" moAllowManualCollapseAndExpand="1"/>
+              <DropDownList ReadOnly="1" DescriptionOnly="1">64512:Enable
+0:Disable
+</DropDownList>
+              <LastState Value="1280" RealAddress="0981019C"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>+3C</Address>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>340</ID>
+                  <Description>"Crown"</Description>
+                  <DropDownList ReadOnly="1" DescriptionOnly="1">64512:Enable
+0:Disable
+</DropDownList>
+                  <LastState Value="1280" RealAddress="0981019C"/>
+                  <VariableType>2 Bytes</VariableType>
+                  <Address>+0</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>341</ID>
+                  <Description>"Heart"</Description>
+                  <LastState Value="255" RealAddress="0981019E"/>
+                  <VariableType>Byte</VariableType>
+                  <Address>+2</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>342</ID>
+                  <Description>"Grown Up"</Description>
+                  <LastState Value="0" RealAddress="098101A0"/>
+                  <VariableType>Byte</VariableType>
+                  <Address>+4</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>343</ID>
+              <Description>"Barn Animal 3"</Description>
+              <Options moHideChildren="1" moAllowManualCollapseAndExpand="1"/>
+              <DropDownList ReadOnly="1" DescriptionOnly="1">64512:Enable
+0:Disable
+</DropDownList>
+              <LastState Value="1280" RealAddress="098101D8"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>+00000078</Address>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>344</ID>
+                  <Description>"Crown"</Description>
+                  <DropDownList ReadOnly="1" DescriptionOnly="1">64512:Enable
+0:Disable
+</DropDownList>
+                  <LastState Value="1280" RealAddress="098101D8"/>
+                  <VariableType>2 Bytes</VariableType>
+                  <Address>+0</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>345</ID>
+                  <Description>"Heart"</Description>
+                  <LastState Value="255" RealAddress="098101DA"/>
+                  <VariableType>Byte</VariableType>
+                  <Address>+2</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>346</ID>
+                  <Description>"Grown Up"</Description>
+                  <LastState Value="0" RealAddress="098101DC"/>
+                  <VariableType>Byte</VariableType>
+                  <Address>+4</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>347</ID>
+              <Description>"Barn Animal 4"</Description>
+              <Options moHideChildren="1" moAllowManualCollapseAndExpand="1"/>
+              <DropDownList ReadOnly="1" DescriptionOnly="1">64512:Enable
+0:Disable
+</DropDownList>
+              <LastState Value="1280" RealAddress="09810214"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>+000000B4</Address>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>348</ID>
+                  <Description>"Crown"</Description>
+                  <DropDownList ReadOnly="1" DescriptionOnly="1">64512:Enable
+0:Disable
+</DropDownList>
+                  <LastState Value="1280" RealAddress="09810214"/>
+                  <VariableType>2 Bytes</VariableType>
+                  <Address>+0</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>349</ID>
+                  <Description>"Heart"</Description>
+                  <LastState Value="255" RealAddress="09810216"/>
+                  <VariableType>Byte</VariableType>
+                  <Address>+2</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>350</ID>
+                  <Description>"Grown Up"</Description>
+                  <LastState Value="0" RealAddress="09810218"/>
+                  <VariableType>Byte</VariableType>
+                  <Address>+4</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>351</ID>
+              <Description>"Barn Animal 5"</Description>
+              <Options moHideChildren="1" moAllowManualCollapseAndExpand="1"/>
+              <DropDownList ReadOnly="1" DescriptionOnly="1">64512:Enable
+0:Disable
+</DropDownList>
+              <LastState Value="1280" RealAddress="09810250"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>+000000F0</Address>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>352</ID>
+                  <Description>"Crown"</Description>
+                  <DropDownList ReadOnly="1" DescriptionOnly="1">64512:Enable
+0:Disable
+</DropDownList>
+                  <LastState Value="1280" RealAddress="09810250"/>
+                  <VariableType>2 Bytes</VariableType>
+                  <Address>+0</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>353</ID>
+                  <Description>"Heart"</Description>
+                  <LastState Value="255" RealAddress="09810252"/>
+                  <VariableType>Byte</VariableType>
+                  <Address>+2</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>354</ID>
+                  <Description>"Grown Up"</Description>
+                  <LastState Value="0" RealAddress="09810254"/>
+                  <VariableType>Byte</VariableType>
+                  <Address>+4</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>355</ID>
+              <Description>"Barn Animal 6"</Description>
+              <Options moHideChildren="1" moAllowManualCollapseAndExpand="1"/>
+              <DropDownList ReadOnly="1" DescriptionOnly="1">64512:Enable
+0:Disable
+</DropDownList>
+              <LastState Value="1280" RealAddress="0981028C"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>+0000012C</Address>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>356</ID>
+                  <Description>"Crown"</Description>
+                  <DropDownList ReadOnly="1" DescriptionOnly="1">64512:Enable
+0:Disable
+</DropDownList>
+                  <LastState Value="1280" RealAddress="0981028C"/>
+                  <VariableType>2 Bytes</VariableType>
+                  <Address>+0</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>357</ID>
+                  <Description>"Heart"</Description>
+                  <LastState Value="255" RealAddress="0981028E"/>
+                  <VariableType>Byte</VariableType>
+                  <Address>+2</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>358</ID>
+                  <Description>"Grown Up"</Description>
+                  <LastState Value="0" RealAddress="09810290"/>
+                  <VariableType>Byte</VariableType>
+                  <Address>+4</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>359</ID>
+              <Description>"Barn Animal 7"</Description>
+              <Options moHideChildren="1" moAllowManualCollapseAndExpand="1"/>
+              <DropDownList ReadOnly="1" DescriptionOnly="1">64512:Enable
+0:Disable
+</DropDownList>
+              <LastState Value="1280" RealAddress="098102C8"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>+00000168</Address>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>360</ID>
+                  <Description>"Crown"</Description>
+                  <DropDownList ReadOnly="1" DescriptionOnly="1">64512:Enable
+0:Disable
+</DropDownList>
+                  <LastState Value="1280" RealAddress="098102C8"/>
+                  <VariableType>2 Bytes</VariableType>
+                  <Address>+0</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>361</ID>
+                  <Description>"Heart"</Description>
+                  <LastState Value="255" RealAddress="098102CA"/>
+                  <VariableType>Byte</VariableType>
+                  <Address>+2</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>362</ID>
+                  <Description>"Grown Up"</Description>
+                  <LastState Value="0" RealAddress="098102CC"/>
+                  <VariableType>Byte</VariableType>
+                  <Address>+4</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>363</ID>
+              <Description>"Barn Animal 8"</Description>
+              <Options moHideChildren="1" moAllowManualCollapseAndExpand="1"/>
+              <DropDownList ReadOnly="1" DescriptionOnly="1">64512:Enable
+0:Disable
+</DropDownList>
+              <LastState Value="1280" RealAddress="09810304"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>+000001A4</Address>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>364</ID>
+                  <Description>"Crown"</Description>
+                  <DropDownList ReadOnly="1" DescriptionOnly="1">64512:Enable
+0:Disable
+</DropDownList>
+                  <LastState Value="1280" RealAddress="09810304"/>
+                  <VariableType>2 Bytes</VariableType>
+                  <Address>+0</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>365</ID>
+                  <Description>"Heart"</Description>
+                  <LastState Value="255" RealAddress="09810306"/>
+                  <VariableType>Byte</VariableType>
+                  <Address>+2</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>366</ID>
+                  <Description>"Grown Up"</Description>
+                  <LastState Value="0" RealAddress="09810308"/>
+                  <VariableType>Byte</VariableType>
+                  <Address>+4</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>375</ID>
+          <Description>"Chicken"</Description>
+          <Options moHideChildren="1" moAllowManualCollapseAndExpand="1"/>
+          <DropDownList ReadOnly="1" DescriptionOnly="1">64512:Enable
+0:Disable
+</DropDownList>
+          <LastState Value="17670" RealAddress="0980FD8C"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>0072F9F0</Address>
+          <Offsets>
+            <Offset>2A1C</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>376</ID>
+              <Description>"Chicken 1"</Description>
+              <Options moHideChildren="1" moAllowManualCollapseAndExpand="1"/>
+              <DropDownList ReadOnly="1" DescriptionOnly="1">64512:Enable
+0:Disable
+</DropDownList>
+              <LastState Value="17670" RealAddress="0980FD8C"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>+0</Address>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>377</ID>
+                  <Description>"Crown"</Description>
+                  <DropDownList ReadOnly="1" DescriptionOnly="1">64512:Enable
+0:Disable
+</DropDownList>
+                  <LastState Value="17670" RealAddress="0980FD8C"/>
+                  <VariableType>2 Bytes</VariableType>
+                  <Address>+0</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>378</ID>
+                  <Description>"Heart"</Description>
+                  <LastState Value="255" RealAddress="0980FD8E"/>
+                  <VariableType>Byte</VariableType>
+                  <Address>+2</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>379</ID>
+                  <Description>"Grown Up"</Description>
+                  <LastState Value="31" RealAddress="0980FD90"/>
+                  <VariableType>Byte</VariableType>
+                  <Address>+4</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>380</ID>
+              <Description>"Chicken 2"</Description>
+              <Options moHideChildren="1" moAllowManualCollapseAndExpand="1"/>
+              <DropDownList ReadOnly="1" DescriptionOnly="1">64512:Enable
+0:Disable
+</DropDownList>
+              <LastState Value="17670" RealAddress="0980FDBC"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>+30</Address>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>381</ID>
+                  <Description>"Crown"</Description>
+                  <DropDownList ReadOnly="1" DescriptionOnly="1">64512:Enable
+0:Disable
+</DropDownList>
+                  <LastState Value="17670" RealAddress="0980FDBC"/>
+                  <VariableType>2 Bytes</VariableType>
+                  <Address>+0</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>382</ID>
+                  <Description>"Heart"</Description>
+                  <LastState Value="255" RealAddress="0980FDBE"/>
+                  <VariableType>Byte</VariableType>
+                  <Address>+2</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>383</ID>
+                  <Description>"Grown Up"</Description>
+                  <LastState Value="31" RealAddress="0980FDC0"/>
+                  <VariableType>Byte</VariableType>
+                  <Address>+4</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>384</ID>
+              <Description>"Chicken 3"</Description>
+              <Options moHideChildren="1" moAllowManualCollapseAndExpand="1"/>
+              <DropDownList ReadOnly="1" DescriptionOnly="1">64512:Enable
+0:Disable
+</DropDownList>
+              <LastState Value="17670" RealAddress="0980FDEC"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>+00000060</Address>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>385</ID>
+                  <Description>"Crown"</Description>
+                  <DropDownList ReadOnly="1" DescriptionOnly="1">64512:Enable
+0:Disable
+</DropDownList>
+                  <LastState Value="17670" RealAddress="0980FDEC"/>
+                  <VariableType>2 Bytes</VariableType>
+                  <Address>+0</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>386</ID>
+                  <Description>"Heart"</Description>
+                  <LastState Value="255" RealAddress="0980FDEE"/>
+                  <VariableType>Byte</VariableType>
+                  <Address>+2</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>387</ID>
+                  <Description>"Grown Up"</Description>
+                  <LastState Value="31" RealAddress="0980FDF0"/>
+                  <VariableType>Byte</VariableType>
+                  <Address>+4</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>388</ID>
+              <Description>"Chicken 4"</Description>
+              <Options moHideChildren="1" moAllowManualCollapseAndExpand="1"/>
+              <DropDownList ReadOnly="1" DescriptionOnly="1">64512:Enable
+0:Disable
+</DropDownList>
+              <LastState Value="17670" RealAddress="0980FE1C"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>+00000090</Address>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>389</ID>
+                  <Description>"Crown"</Description>
+                  <DropDownList ReadOnly="1" DescriptionOnly="1">64512:Enable
+0:Disable
+</DropDownList>
+                  <LastState Value="17670" RealAddress="0980FE1C"/>
+                  <VariableType>2 Bytes</VariableType>
+                  <Address>+0</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>390</ID>
+                  <Description>"Heart"</Description>
+                  <LastState Value="255" RealAddress="0980FE1E"/>
+                  <VariableType>Byte</VariableType>
+                  <Address>+2</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>391</ID>
+                  <Description>"Grown Up"</Description>
+                  <LastState Value="31" RealAddress="0980FE20"/>
+                  <VariableType>Byte</VariableType>
+                  <Address>+4</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>392</ID>
+              <Description>"Chicken 5"</Description>
+              <Options moHideChildren="1" moAllowManualCollapseAndExpand="1"/>
+              <DropDownList ReadOnly="1" DescriptionOnly="1">64512:Enable
+0:Disable
+</DropDownList>
+              <LastState Value="17670" RealAddress="0980FE4C"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>+000000C0</Address>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>393</ID>
+                  <Description>"Crown"</Description>
+                  <DropDownList ReadOnly="1" DescriptionOnly="1">64512:Enable
+0:Disable
+</DropDownList>
+                  <LastState Value="17670" RealAddress="0980FE4C"/>
+                  <VariableType>2 Bytes</VariableType>
+                  <Address>+0</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>394</ID>
+                  <Description>"Heart"</Description>
+                  <LastState Value="255" RealAddress="0980FE4E"/>
+                  <VariableType>Byte</VariableType>
+                  <Address>+2</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>395</ID>
+                  <Description>"Grown Up"</Description>
+                  <LastState Value="29" RealAddress="0980FE50"/>
+                  <VariableType>Byte</VariableType>
+                  <Address>+4</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>396</ID>
+              <Description>"Chicken 6"</Description>
+              <Options moHideChildren="1" moAllowManualCollapseAndExpand="1"/>
+              <DropDownList ReadOnly="1" DescriptionOnly="1">64512:Enable
+0:Disable
+</DropDownList>
+              <LastState Value="17670" RealAddress="0980FE7C"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>+000000F0</Address>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>397</ID>
+                  <Description>"Crown"</Description>
+                  <DropDownList ReadOnly="1" DescriptionOnly="1">64512:Enable
+0:Disable
+</DropDownList>
+                  <LastState Value="17670" RealAddress="0980FE7C"/>
+                  <VariableType>2 Bytes</VariableType>
+                  <Address>+0</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>398</ID>
+                  <Description>"Heart"</Description>
+                  <LastState Value="255" RealAddress="0980FE7E"/>
+                  <VariableType>Byte</VariableType>
+                  <Address>+2</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>399</ID>
+                  <Description>"Grown Up"</Description>
+                  <LastState Value="29" RealAddress="0980FE80"/>
+                  <VariableType>Byte</VariableType>
+                  <Address>+4</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>400</ID>
+              <Description>"Chicken 7"</Description>
+              <Options moHideChildren="1" moAllowManualCollapseAndExpand="1"/>
+              <DropDownList ReadOnly="1" DescriptionOnly="1">64512:Enable
+0:Disable
+</DropDownList>
+              <LastState Value="17670" RealAddress="0980FEAC"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>+00000120</Address>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>401</ID>
+                  <Description>"Crown"</Description>
+                  <DropDownList ReadOnly="1" DescriptionOnly="1">64512:Enable
+0:Disable
+</DropDownList>
+                  <LastState Value="17670" RealAddress="0980FEAC"/>
+                  <VariableType>2 Bytes</VariableType>
+                  <Address>+0</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>402</ID>
+                  <Description>"Heart"</Description>
+                  <LastState Value="255" RealAddress="0980FEAE"/>
+                  <VariableType>Byte</VariableType>
+                  <Address>+2</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>403</ID>
+                  <Description>"Grown Up"</Description>
+                  <LastState Value="26" RealAddress="0980FEB0"/>
+                  <VariableType>Byte</VariableType>
+                  <Address>+4</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>404</ID>
+              <Description>"Chicken 8"</Description>
+              <Options moHideChildren="1" moAllowManualCollapseAndExpand="1"/>
+              <DropDownList ReadOnly="1" DescriptionOnly="1">64512:Enable
+0:Disable
+</DropDownList>
+              <LastState Value="17670" RealAddress="0980FEDC"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>+00000150</Address>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>405</ID>
+                  <Description>"Crown"</Description>
+                  <DropDownList ReadOnly="1" DescriptionOnly="1">64512:Enable
+0:Disable
+</DropDownList>
+                  <LastState Value="17670" RealAddress="0980FEDC"/>
+                  <VariableType>2 Bytes</VariableType>
+                  <Address>+0</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>406</ID>
+                  <Description>"Heart"</Description>
+                  <LastState Value="255" RealAddress="0980FEDE"/>
+                  <VariableType>Byte</VariableType>
+                  <Address>+2</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>407</ID>
+                  <Description>"Grown Up"</Description>
+                  <LastState Value="26" RealAddress="0980FEE0"/>
+                  <VariableType>Byte</VariableType>
+                  <Address>+4</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>263</ID>
+      <Description>"Stamina"</Description>
+      <LastState Value="54" RealAddress="09811565"/>
+      <VariableType>Byte</VariableType>
+      <Address>0072F9F0</Address>
+      <Offsets>
+        <Offset>41F5</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>264</ID>
+      <Description>"Fatigue"</Description>
+      <LastState Value="0" RealAddress="09811566"/>
+      <VariableType>Byte</VariableType>
+      <Address>0072F9F0</Address>
+      <Offsets>
+        <Offset>41F6</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>415</ID>
+      <Description>"Girls"</Description>
+      <Options moHideChildren="1" moAllowManualCollapseAndExpand="1"/>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>409</ID>
+          <Description>"Karen"</Description>
+          <LastState Value="100" RealAddress="09811815"/>
+          <VariableType>Byte</VariableType>
+          <Address>005a8f50</Address>
+          <Offsets>
+            <Offset>44A5</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>410</ID>
+          <Description>"Elli"</Description>
+          <LastState Value="26" RealAddress="09811841"/>
+          <VariableType>Byte</VariableType>
+          <Address>005a8f50</Address>
+          <Offsets>
+            <Offset>44D1</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>413</ID>
+          <Description>"Ann"</Description>
+          <LastState Value="8" RealAddress="09811895"/>
+          <VariableType>Byte</VariableType>
+          <Address>005a8f50</Address>
+          <Offsets>
+            <Offset>4525</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>412</ID>
+          <Description>"Mary"</Description>
+          <LastState Value="6" RealAddress="09811785"/>
+          <VariableType>Byte</VariableType>
+          <Address>005a8f50</Address>
+          <Offsets>
+            <Offset>4415</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>411</ID>
+          <Description>"Popuri"</Description>
+          <LastState Value="44" RealAddress="098116C9"/>
+          <VariableType>Byte</VariableType>
+          <Address>005a8f50</Address>
+          <Offsets>
+            <Offset>4359</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>414</ID>
+          <Description>"Harvest Goddess"</Description>
+          <LastState Value="0" RealAddress="09811914"/>
+          <VariableType>Byte</VariableType>
+          <Address>005a8f50</Address>
+          <Offsets>
+            <Offset>45A4</Offset>
+          </Offsets>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>416</ID>
+      <Description>"Tools Modification Slot 1"</Description>
+      <LastState Value="51" RealAddress="098115A8"/>
+      <ShowAsHex>1</ShowAsHex>
+      <VariableType>Byte</VariableType>
+      <Address>005a8f50</Address>
+      <Offsets>
+        <Offset>4238</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>417</ID>
+      <Description>"Item Modification Slot 1"</Description>
+      <LastState Value="0100" RealAddress="09811584"/>
+      <ShowAsHex>1</ShowAsHex>
+      <VariableType>2 Bytes</VariableType>
+      <Address>005a8f50</Address>
+      <Offsets>
+        <Offset>4214</Offset>
+      </Offsets>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
